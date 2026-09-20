@@ -79,5 +79,11 @@ DIVIDE(
     0
 )
 
-<img width="760" height="306" alt="call_centre_ss4" src="https://github.com/user-attachments/assets/4549595e-8f53-4cdd-81b1-919b2d50c1d6" />
+💡 Key Insights
+Peak Days: Call volume consistently peaks toward the end of the workweek (Thursday and Friday), requiring higher agent availability.
 
+Primary Driver: Billing inquiries account for the vast majority of inbound requests, indicating an opportunity for self-service portal improvements.
+
+Top Channel: Direct phone calls remain the dominant channel (32.3%), closely followed by Web and Email.
+
+Service Levels: Current SLA compliance is 75.26%, highlighting target areas for reducing backlog during peak hours.
