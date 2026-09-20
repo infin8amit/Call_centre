@@ -42,7 +42,8 @@ Call centre managers need end-to-end visibility into call volumes, service-level
 * Detailed record-level table with interactive cross-filtering by **Date Range**, **Channel**, and **City**.
 * Tracks individual customer interactions, reasons (e.g., Billing Question, Service Outage, Payments), SLA adherence, and specific durations.
 
----
+---<img width="959" height="553" alt="call_cente_ss1" src="https://github.com/user-attachments/assets/abe2cf25-3669-47cc-8c8f-c8a80b4e0e5a" />
+
 
 ## 🏗️ Data Model & Schema
 
