@@ -43,6 +43,8 @@ Call centre managers need end-to-end visibility into call volumes, service-level
 * Tracks individual customer interactions, reasons (e.g., Billing Question, Service Outage, Payments), SLA adherence, and specific durations.
 
 ---<img width="959" height="553" alt="call_cente_ss1" src="https://github.com/user-attachments/assets/abe2cf25-3669-47cc-8c8f-c8a80b4e0e5a" />
+<img width="930" height="551" alt="call_cente_ss2" src="https://github.com/user-attachments/assets/3f191580-7825-4255-bee5-1d8218f1e7e7" />
+
 
 
 ## 🏗️ Data Model & Schema
@@ -54,6 +56,8 @@ Call centre managers need end-to-end visibility into call volumes, service-level
 * **Relationship**: One-to-Many (`1:*`), single direction filtering from `Date Table` to `Call Center`.
 
 ---
+<img width="689" height="459" alt="Call_center_ss3" src="https://github.com/user-attachments/assets/2ed28954-69cb-4809-a9e7-5c9b67702037" />
+
 
 ## 🧮 Key DAX Measures
 
