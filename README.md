@@ -78,3 +78,6 @@ DIVIDE(
     COUNTROWS('Call Center_Call Center'),
     0
 )
+
+<img width="760" height="306" alt="image" src="https://github.com/user-attachments/assets/4da6ff68-7e86-42bc-8aa3-d891528797d6" />
+
