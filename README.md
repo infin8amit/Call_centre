@@ -79,5 +79,5 @@ DIVIDE(
     0
 )
 
-<img width="760" height="306" alt="image" src="https://github.com/user-attachments/assets/4da6ff68-7e86-42bc-8aa3-d891528797d6" />
+<img width="760" height="306" alt="call_centre_ss4" src="https://github.com/user-attachments/assets/4549595e-8f53-4cdd-81b1-919b2d50c1d6" />
 
